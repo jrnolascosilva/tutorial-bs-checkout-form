@@ -1,2 +1,4 @@
 # tutorial-bs-checkout-form
-Created with CodeSandbox
+
+Practical coding of https://youtu.be/IrUp98s8B7Q
+
